@@ -96,7 +96,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
             backgroundColor: Colors.transparent,
             elevation: 0,
             title: const Text(
-              'Cadastro',
+              'Perfil',
               style: TextStyle(fontSize: 30, color: AppColors.WHITE),
             ),
             centerTitle: true,
